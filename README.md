@@ -27,3 +27,5 @@ curl https://dazzling-newton-866bef.netlify.app/.netlify/functions/server
 curl https://dazzling-newton-866bef.netlify.app/.netlify/functions/server/another
 
 curl --header "Content-Type: application/json" --request POST --data '{"json":"POST"}' https://dazzling-newton-866bef.netlify.app/.netlify/functions/server
+
+curl https://dazzling-newton-866bef.netlify.app/.netlify/functions/server/api/file
